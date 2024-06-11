@@ -27,7 +27,5 @@ The dataset provided contains information on various physical attributes and per
 9. **Sit and Bend Forward Measurement (sit and bend forward_cm):** Indicates an individual's flexibility, specifically how far they can bend forward while sitting\.
 10. **Sit-ups Count (sit-ups counts):** The number of sit-ups performed by each individual\.
 11. **Broad Jump Distance (broad jump_cm):** The distance an individual can jump in a broad jump\.
-12. **Performance Class (class):** This column assigns each individual to one of the performance classes (A, B, C, or D)\. The dataset is stratified, ensuring proportional representation of each class\.
-
-By analyzing this dataset, we aim to build robust models that can accurately predict an individual's performance class based on the provided features\. These models can have practical applications in sports, fitness, and health assessments\.
+12. **Performance Class (class):** This column assigns each individual to one of the performance classes (A, B, C, or D)\. The dataset is stratified, ensuring proportional representation of each class.By analyzing this dataset, we aim to build robust models that can accurately predict an individual's performance class based on the provided features\. These models can have practical applications in sports, fitness, and health assessments\.
 
