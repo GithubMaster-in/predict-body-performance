@@ -16,8 +16,8 @@ The specific objective of this project is to create and evaluate multiple machin
 
 The dataset provided contains information on various physical attributes and performance metrics for a group of individuals\. Let's break down the columns:
 
-1\. **Age (age):** This column captures the age of each individual, ranging from 20 to 64 years\.
-2\. **Gender (gender):** The gender of each individual is categorized as 'F' (female) or 'M' (male)\.
+1. **Age (age):** This column captures the age of each individual, ranging from 20 to 64 years\.
+2. **Gender (gender):** The gender of each individual is categorized as 'F' (female) or 'M' (male)\.
 3\. **Height (height_cm):** Height is measured in centimeters\. To convert it to feet, divide by 30\.48\.
 4\. **Weight (weight_kg):** Weight is recorded in kilograms\.
 5\. **Body Fat Percentage (body fat_%):** This column represents the percentage of body fat for each individual\.
